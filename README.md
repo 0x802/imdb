@@ -13,8 +13,8 @@ $ python3 imdb.py --help
 ## Options
 | Command | Description | Use
 | --- | --- | ---
-| -t | for title The title of the movie or series| -t "Kimetsu no Yaiba" 
-| -y | Date of release of this film or series| -y 2019
+| t | for title The title of the movie or series| -t "Kimetsu no Yaiba" 
+| y | Date of release of this film or series| -y 2019
 
 
 
